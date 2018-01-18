@@ -22,9 +22,6 @@ import javafx.scene.control.TableView;
 import javafx.scene.control.TextField;
 import javafx.scene.control.cell.PropertyValueFactory;
 
-/**
- * Created by pwilkin on 30-Nov-17.
- */
 public class DaneOsobowe implements HierarchicalController<MainController> {
 
 	public TextField imie;
